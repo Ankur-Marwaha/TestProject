@@ -1,2 +1,0 @@
-# SapientInterview
-Created with CodeSandbox
