@@ -1,3 +1,5 @@
+Till 1 Jan - Try to put one idea per day 
+
 Ankur
 1. Comparing company profiles
  a. API to collect company's data
